@@ -465,11 +465,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/giuseppeguerra/Progetti/VSCode/TestWebApi/TestWebApi.csproj",
-      "projectName": "TestWebApi",
-      "projectPath": "/Users/giuseppeguerra/Progetti/VSCode/TestWebApi/TestWebApi.csproj",
+      "projectUniqueName": "/Users/giuseppeguerra/Progetti/VSCode/GitHubCopilotXDemo/WeatherForecast.csproj",
+      "projectName": "WeatherForecast",
+      "projectPath": "/Users/giuseppeguerra/Progetti/VSCode/GitHubCopilotXDemo/WeatherForecast.csproj",
       "packagesPath": "/Users/giuseppeguerra/.nuget/packages/",
-      "outputPath": "/Users/giuseppeguerra/Progetti/VSCode/TestWebApi/obj/",
+      "outputPath": "/Users/giuseppeguerra/Progetti/VSCode/GitHubCopilotXDemo/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/giuseppeguerra/.nuget/NuGet/NuGet.Config"
@@ -478,7 +478,6 @@
         "net7.0"
       ],
       "sources": {
-        "/usr/local/share/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -525,7 +524,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet/7.0.100/libexec/sdk/7.0.100/RuntimeIdentifierGraph.json"
       }
     }
   }

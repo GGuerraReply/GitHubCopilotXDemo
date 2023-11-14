@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GJUxyS9LaJCcG2x8RvwL1hAxc5AyY/cR7EcP7xUcvekUzd7+bBbADx3QSMZaTXAQup5cx5cfV1KjTxTpuYJxoA==",
+  "dgSpecHash": "feg9l86AIwEy2HBGw6B81j6kumYzHGgdYB/PiME66dt8XylakMKXP74EnVXCbF9InLP2BkO3hpN2Ee73b4ITXw==",
   "success": true,
-  "projectFilePath": "/Users/giuseppeguerra/Progetti/VSCode/TestWebApi/TestWebApi.csproj",
+  "projectFilePath": "/Users/giuseppeguerra/Progetti/VSCode/GitHubCopilotXDemo/WeatherForecast.csproj",
   "expectedPackageFiles": [
     "/Users/giuseppeguerra/.nuget/packages/microsoft.aspnetcore.openapi/7.0.5/microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",
     "/Users/giuseppeguerra/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
